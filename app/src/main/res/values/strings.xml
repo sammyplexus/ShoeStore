@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email_autofill_hints">Enter your email address</string>
+    <string name="password_autofill_hints">Enter your password</string>
+    <string name="text_welcome">Welcome to this awesome application</string>
+    <string name="text_welcome_description">It is a very lovely day in Glasgow. The sun is up, the environment is quiet. It is a good day for dreaming</string>
+    <string name="next">Next please! :)</string>
+    <string name="instruction_title">First of all, Introduction</string>
+    <string name="instruction_details">Pay attention. This is key!</string>
+    <string name="sign_out">Sign out</string>
+    <string name="text_shoe_name">Enter shoe name</string>
+    <string name="text_shoe_company">Company</string>
+    <string name="text_shoe_size">"Enter shoe size "</string>
+    <string name="text_description">Enter description</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="text_shoe_label">Shoe label</string>
+    <string name="text_save">Save</string>
+    <string name="label_login">Login</string>
+    <string name="label_welcome">Welcome</string>
+    <string name="label_instruction">Instruction</string>
+    <string name="label_shoe_list">Shoe list</string>
+    <string name="label_shoe_detail">Shoe detail</string>
+</resources>
