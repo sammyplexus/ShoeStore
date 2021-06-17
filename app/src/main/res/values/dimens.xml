@@ -4,6 +4,12 @@
     <dimen name="fragment_vertical_margin">16dp</dimen>
     <dimen name="default_margin_size">16dp</dimen>
     <dimen name="default_padding">16dp</dimen>
+    <dimen name="small_padding">4dp</dimen>
     <dimen name="title_font_size">24sp</dimen>
     <dimen name="description_font_size">18sp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="shoeNameFontSize">22sp</dimen>
+    <dimen name="shoeCompanyFontSize">18sp</dimen>
+    <dimen name="shoeDescriptionFontSize">18sp</dimen>
+    <dimen name="shoeSizeFontSize">32sp</dimen>
 </resources>

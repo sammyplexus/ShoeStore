@@ -8,14 +8,80 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b82b889-871c-4602-ab18-d8f60f24f899" name="Default Changelist" comment="" />
+    <list default="true" id="9b82b889-871c-4602-ab18-d8f60f24f899" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/ShoeStore.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/individual_shoe_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_core_1_0_0_alpha3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_core_1_0_0_alpha3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_common_4_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_common_4_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_16_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_16_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_72_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_72.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_20_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_4_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_4_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ShoeStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ShoeStore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/ShoeStoreViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/ShoeStoreViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/detail/ShoeDetail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/detail/ShoeDetail.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/listing/ShoeList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/listing/ShoeList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/login/Login.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/login/Login.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/shoestore/login/LoginViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shoe_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shoe_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shoe_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shoe_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_welcome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_welcome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/shoe_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/shoe_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CTLGAP18A1010986" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/samuelagbede/.android/avd/Pixel_3a_XL_API_29.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -34,18 +100,26 @@
         <option value="navigationResourceFile" />
         <option value="resourceFile" />
         <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ojkAX4gn41DFgkVJWPNI8MWc0q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@/Users/samuelagbede/.android/avd/Pixel_3a_XL_API_29.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-17T22:34:20.550526Z" />
     <property name="ResourceManagerPrefKey.ResourceType" value="MENU" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/samuelagbede/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED" value="CardView" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
@@ -70,12 +144,14 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="app" />
+      <module name="ShoeStore.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -111,16 +187,22 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -135,52 +217,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613809077913">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state x="625" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1623876407145">
+      <screen x="0" y="25" width="1680" height="968" />
     </state>
-    <state x="578" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2053.-1080.1920.1080/-507.-1415.2560.1415/0.25.1680.945@0.25.1680.945" timestamp="1613809077913" />
-    <state x="536" y="-1050" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1614275013420">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
+    <state x="625" y="227" key="#com.intellij.ide.util.MemberChooser/0.25.1680.967@0.25.1680.967" timestamp="1623874765655" />
+    <state x="625" y="227" key="#com.intellij.ide.util.MemberChooser/0.25.1680.968@0.25.1680.968" timestamp="1623876407145" />
+    <state x="428" y="267" key="AndroidCreateResourceFileDialog" timestamp="1623963024929">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
-    <state x="536" y="-1050" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614275013420" />
-    <state x="145" y="-1090" key="AndroidCreateResourceFileDialog" timestamp="1614101924922">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
+    <state x="428" y="267" key="AndroidCreateResourceFileDialog/0.25.1680.965@0.25.1680.965" timestamp="1623963024929" />
+    <state x="1116" y="368" key="AndroidCreateXmlResourceDialog" timestamp="1623971332788">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
-    <state x="145" y="-1090" key="AndroidCreateResourceFileDialog/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614101924922" />
-    <state x="428" y="255" key="AndroidCreateResourceFileDialog/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1613808058756" />
-    <state x="552" y="-949" key="AndroidCreateXmlResourceDialog" timestamp="1614214774634">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
+    <state x="1116" y="368" key="AndroidCreateXmlResourceDialog/0.25.1680.965@0.25.1680.965" timestamp="1623971332788" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1623968442600">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
-    <state x="695" y="347" key="AndroidCreateXmlResourceDialog/2053.-1080.1920.1080/-507.-1415.2560.1415/0.25.1680.945@0.25.1680.945" timestamp="1613810879487" />
-    <state x="552" y="-949" key="AndroidCreateXmlResourceDialog/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614214774634" />
-    <state x="518" y="255" key="Downloadable.Font.Dialog.Size" timestamp="1613810522626">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.25.1680.965@0.25.1680.965" timestamp="1623968442600" />
+    <state width="1638" height="311" key="GridCell.Tab.0.bottom/0.25.1680.968@0.25.1680.968" timestamp="1623782175828" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1623968442598">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
-    <state x="518" y="255" key="Downloadable.Font.Dialog.Size/2053.-1080.1920.1080/-507.-1415.2560.1415/0.25.1680.945@0.25.1680.945" timestamp="1613810522626" />
-    <state width="2518" height="364" key="GridCell.Tab.0.bottom" timestamp="1614487956818">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.25.1680.965@0.25.1680.965" timestamp="1623968442598" />
+    <state width="1638" height="311" key="GridCell.Tab.0.center/0.25.1680.968@0.25.1680.968" timestamp="1623782175827" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1623968442597">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
-    <state width="2518" height="414" key="GridCell.Tab.0.bottom/2053.-1055.1920.1055/-507.-1440.2560.1440/0.25.1680.960@-507.-1440.2560.1440" timestamp="1614295415471" />
-    <state width="2518" height="364" key="GridCell.Tab.0.bottom/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614487956818" />
-    <state width="2518" height="364" key="GridCell.Tab.0.center" timestamp="1614487956814">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.25.1680.965@0.25.1680.965" timestamp="1623968442597" />
+    <state width="1638" height="311" key="GridCell.Tab.0.left/0.25.1680.968@0.25.1680.968" timestamp="1623782175826" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1623968442599">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
-    <state width="2518" height="414" key="GridCell.Tab.0.center/2053.-1055.1920.1055/-507.-1440.2560.1440/0.25.1680.960@-507.-1440.2560.1440" timestamp="1614295415465" />
-    <state width="2518" height="364" key="GridCell.Tab.0.center/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614487956814" />
-    <state width="2518" height="364" key="GridCell.Tab.0.left" timestamp="1614487956812">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.25.1680.965@0.25.1680.965" timestamp="1623968442599" />
+    <state width="1638" height="311" key="GridCell.Tab.0.right/0.25.1680.968@0.25.1680.968" timestamp="1623782175828" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1623876782878">
+      <screen x="0" y="25" width="1680" height="966" />
     </state>
-    <state width="2518" height="414" key="GridCell.Tab.0.left/2053.-1055.1920.1055/-507.-1440.2560.1440/0.25.1680.960@-507.-1440.2560.1440" timestamp="1614295415461" />
-    <state width="2518" height="364" key="GridCell.Tab.0.left/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614487956812" />
-    <state width="2518" height="364" key="GridCell.Tab.0.right" timestamp="1614487956816">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="414" key="GridCell.Tab.0.right/2053.-1055.1920.1055/-507.-1440.2560.1440/0.25.1680.960@-507.-1440.2560.1440" timestamp="1614295415468" />
-    <state width="2518" height="364" key="GridCell.Tab.0.right/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614487956816" />
-    <state x="263" y="-1125" width="1021" height="1031" key="search.everywhere.popup" timestamp="1614381468807">
-      <screen x="-507" y="-1440" width="2560" height="1440" />
-    </state>
-    <state x="505" y="232" width="670" height="676" key="search.everywhere.popup/2053.-1080.1920.1080/-507.-1415.2560.1415/0.25.1680.945@0.25.1680.945" timestamp="1613810366248" />
-    <state x="263" y="-1125" width="1021" height="1031" key="search.everywhere.popup/2053.-1080.1920.1080/-507.-1440.2560.1440/0.0.1680.1050@-507.-1440.2560.1440" timestamp="1614381468807" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.25.1680.966@0.25.1680.966" timestamp="1623876782878" />
   </component>
 </project>

@@ -28,8 +28,9 @@ class Login : Fragment(){
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = DataBindingUtil.inflate<FragmentLoginBinding>(inflater, R.layout.fragment_login, container, false)
+
         findNavController().previousBackStackEntry?.let {
             savedStateHandle = it.savedStateHandle
             savedStateHandle.set(LOGIN_SUCCESSFUL, false)
@@ -41,7 +42,7 @@ class Login : Fragment(){
             if (isLoggedIn){
                 if (::savedStateHandle.isInitialized)
                     savedStateHandle.set(LOGIN_SUCCESSFUL, true)
-                // findNavController().popBackStack()
+
                 findNavController().navigate(LoginDirections.actionLoginToWelcome())
             }
         })
@@ -49,10 +50,4 @@ class Login : Fragment(){
 
         return binding.root
     }
-
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
-    }
-
-
 }

@@ -21,14 +21,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         val binding = DataBindingUtil.setContentView<ActivityMainBinding>(this, R.layout.activity_main)
 
+        setSupportActionBar(binding.toolbar)
+
 
         val navController = this.findNavController(R.id.nav_host_fragment)
-        appBarConfiguration = AppBarConfiguration(navGraph = navController.graph)
+        appBarConfiguration = AppBarConfiguration(setOf(R.id.login, R.id.welcome, R.id.instruction))
+
 
         binding.toolbar.setupWithNavController(navController, appBarConfiguration)
-
-        Timber.plant(Timber.DebugTree())
-
     }
 
     override fun onSupportNavigateUp(): Boolean {
@@ -36,19 +36,4 @@ class MainActivity : AppCompatActivity() {
         return NavigationUI.navigateUp(navController, appBarConfiguration)
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when (item.itemId){
-            R.id.sign_out -> {
-                // handle sign out here
-            }
-        }
-
-        return super.onOptionsItemSelected(item)
-    }
-
-
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        menuInflater.inflate(R.menu.main_menu, menu)
-        return super.onCreateOptionsMenu(menu)
-    }
 }

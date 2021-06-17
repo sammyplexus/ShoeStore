@@ -10,7 +10,6 @@
         android:padding="@dimen/default_padding"
         tools:context=".onboarding.Welcome">
 
-
         <TextView
             android:id="@+id/text_instruction_text"
             android:layout_width="0dp"
